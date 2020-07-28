@@ -1,4 +1,4 @@
-algsetting,avg,nfails,min,max,stddev
+algsetting,avg,nfails,stddev
 scal-geo-cholesky-univ-barrier,3006.05,244,3647.02
 dualize-1-pertv--1483-duals,898.047,70,2371.28
 dualize-1-idiot-50-primals,736.418,55,2140.87
