@@ -1,0 +1,11 @@
+algsetting,idiot,barrier,primals,psi,duals,pertv,algsetting_crash-idiot5-dualp-pesteep-pertv-56-duals,algsetting_crash-idiot5-dualp-pesteep-pertv-70-duals,algsetting_crash-idiot5-dualp-pesteep-pertv-71-duals,algsetting_crash-idiot5-dualp-pesteep-psi--1.0-pertv-70-duals,algsetting_dualp-pesteep-psi--1.0-pertv-52-scal-geo-duals,algsetting_dualp-pesteep-psi-0.4-duals,algsetting_idiot-100-primals,algsetting_idiot-50-primals,algsetting_idiot-60-primals,algsetting_idiot-80-primals,dualp_auto,dualp_pesteep,scal_auto,scal_geo,crash_idiot5,crash_off
+crash-idiot5-dualp-pesteep-psi--1.0-pertv-70-duals,-1,0,0,-1.0,1,70,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0
+crash-idiot5-dualp-pesteep-pertv-56-duals,-1,0,0,-0.5,1,56,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+dualp-pesteep-psi--1.0-pertv-52-scal-geo-duals,-1,0,0,-1.0,1,52,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1
+idiot-50-primals,50,0,1,-0.5,0,50,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1
+idiot-100-primals,100,0,1,-0.5,0,50,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1
+crash-idiot5-dualp-pesteep-pertv-71-duals,-1,0,0,-0.5,1,71,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0
+idiot-80-primals,80,0,1,-0.5,0,50,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1
+crash-idiot5-dualp-pesteep-pertv-70-duals,-1,0,0,-0.5,1,70,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+dualp-pesteep-psi-0.4-duals,-1,0,0,0.4,1,50,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1
+idiot-60-primals,60,0,1,-0.5,0,50,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1
